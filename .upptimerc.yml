@@ -4,16 +4,16 @@ repo: uptime
 sites:
   - name: Medium Blog
     url: https://meysam.io
+  - name: Substack Publication
+    url: https://developerfriendly.substack.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Up
-  introTitle: "This page stores the availability and status of my personal and online pages. Powered by `Upptime` & GitHub Actions."
-  introMessage: These are my websites availability.
+  name: Meysam
+  introTitle: Stats
+  introMessage: Availability of my online websites.
   navbar:
     - title: Status
       href: /
