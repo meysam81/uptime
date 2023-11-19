@@ -19,3 +19,4 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/meysam81/uptime
+  js:  <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-BCWJWQSVJ2"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'G-BCWJWQSVJ2'); </script> 
