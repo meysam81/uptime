@@ -22,19 +22,19 @@
     "url": "https://developerfriendly.substack.com",
     "icon": "https://icons.duckduckgo.com/ip3/developerfriendly.substack.com.ico",
     "slug": "substack-publication",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 1164,
-    "timeWeek": 544,
-    "timeMonth": 385,
-    "timeYear": 385,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 384,
+    "timeDay": 899,
+    "timeWeek": 525,
+    "timeMonth": 384,
+    "timeYear": 384,
     "dailyMinutesDown": {
-      "2023-12-15": 0
+      "2023-12-15": 6
     }
   }
 ]
