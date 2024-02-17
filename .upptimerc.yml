@@ -2,10 +2,12 @@ owner: meysam81
 repo: uptime
 
 sites:
-  - name: Medium Blog
-    url: https://meysam.io
+  - name: Developer Friendly Blog
+    url: https://developer-friendly.blog
   - name: Substack Publication
     url: https://developer-friendly.com
+  - name: Medium Blog
+    url: https://meysam.io
 
 status-website:
   # cname: demo.upptime.js.org
