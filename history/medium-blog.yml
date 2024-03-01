@@ -1,7 +1,7 @@
 url: https://meysam.io
-status: up
-code: 200
-responseTime: 990
-lastUpdated: 2024-03-01T11:23:47.181Z
+status: down
+code: 429
+responseTime: 167
+lastUpdated: 2024-03-01T11:29:54.982Z
 startTime: 2023-11-19T13:25:02.836Z
 generator: Upptime <https://github.com/upptime/upptime>
