@@ -4,9 +4,9 @@
     "url": "https://developer-friendly.blog",
     "icon": "https://icons.duckduckgo.com/ip3/developer-friendly.blog.ico",
     "slug": "developer-friendly-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 284,
     "timeYear": 211,
     "dailyMinutesDown": {
+      "2024-09-03": 0,
       "2024-06-26": 49
     }
   },
@@ -25,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/developer-friendly.com.ico",
     "slug": "substack-publication",
     "status": "up",
-    "uptime": "92.20%",
+    "uptime": "92.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "92.20%",
+    "uptimeYear": "92.21%",
     "time": 183,
     "timeDay": 100,
     "timeWeek": 161,
