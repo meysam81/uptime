@@ -4,7 +4,7 @@
     "url": "https://developer-friendly.blog",
     "icon": "https://icons.duckduckgo.com/ip3/developer-friendly.blog.ico",
     "slug": "developer-friendly-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
     "uptimeDay": "28.83%",
     "uptimeWeek": "89.83%",
@@ -16,6 +16,7 @@
     "timeMonth": 351,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2024-09-26": 0,
       "2024-09-25": 1026,
       "2024-09-03": 19,
       "2024-06-26": 49
