@@ -28,7 +28,7 @@
     "url": "https://developer-friendly.com",
     "icon": "https://icons.duckduckgo.com/ip3/developer-friendly.com.ico",
     "slug": "substack-publication",
-    "status": "up",
+    "status": "down",
     "uptime": "93.96%",
     "uptimeDay": "87.83%",
     "uptimeWeek": "98.26%",
@@ -40,6 +40,7 @@
     "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {
+      "2024-11-28": 0,
       "2024-11-27": 175,
       "2024-08-14": 27,
       "2024-07-02": 16,
