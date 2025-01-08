@@ -4,8 +4,6 @@ repo: uptime
 sites:
   - name: Developer Friendly Blog
     url: https://developer-friendly.blog
-  - name: Substack Publication
-    url: https://developer-friendly.com
   - name: Medium Blog
     url: https://meysam.io
 
