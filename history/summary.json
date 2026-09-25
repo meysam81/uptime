@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/developer-friendly.blog.ico",
     "slug": "developer-friendly-blog",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -13,7 +13,7 @@
     "time": 200,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 153,
+    "timeMonth": 142,
     "timeYear": 196,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 197,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 218,
+    "timeMonth": 211,
     "timeYear": 190,
     "dailyMinutesDown": {}
   }
