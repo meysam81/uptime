@@ -1,5 +1,9 @@
 owner: meysam81
 repo: uptime
+# No secret is read from the config, so none is handed to the generated
+# workflows. Serialising secrets there gets scheduled runs flagged by GitHub
+# as possibly malicious; list a name here only when a site needs it.
+secrets: []
 
 sites:
   - name: Developer Friendly Blog
